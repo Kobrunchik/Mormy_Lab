@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="grx_demo" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="default">
+				<Option output="grx_demo" prefix_auto="1" extension_auto="1" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-Os" />
+					<Add option="-fno-strict-aliasing" />
+					<Add directory="mgrx/include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="-mwindows" />
+					<Add option="-mconsole" />
+					<Add library="OpenAL32" />
+					<Add library="libmgrx.a" />
+					<Add library="winmm" />
+					<Add directory="mgrx/lib" />
+				</Linker>
+			</Target>
+		</Build>
+		<Unit filename="csound.cpp" />
+		<Unit filename="csound.h" />
+		<Unit filename="grchart.cpp" />
+		<Unit filename="grchart.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="qrsdet.cpp" />
+		<Unit filename="qrsdet.h" />
+		<Unit filename="serialib.cpp" />
+		<Unit filename="serialib.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
