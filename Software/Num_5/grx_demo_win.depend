@@ -1,0 +1,604 @@
+# depslib dependency file v1.0
+1655453944 source:d:\c_projects\ecg_sujchbo_driven_leg\v_0_1\csound.cpp
+	"csound.h"
+
+1655491492 d:\c_projects\ecg_sujchbo_driven_leg\v_0_1\csound.h
+	<windows.h>
+	<math.h>
+	<unistd.h>
+	<pthread.h>
+	<stdio.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<cerrno>
+	<string>
+	<iostream>
+	<AL/al.h>
+	<AL/alc.h>
+
+1650659016 d:\c_projects\ecg_sujchbo_driven_leg\v_0_1\mgrx\include\al\al.h
+
+1650659016 d:\c_projects\ecg_sujchbo_driven_leg\v_0_1\mgrx\include\al\alc.h
+
+1655650236 source:d:\c_projects\ecg_sujchbo_driven_leg\v_0_1\main.cpp
+	<string.h>
+	<mgrx.h>
+	<mgrxkeys.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdint.h>
+	<windows.h>
+	<mmsystem.h>
+	<X11/Xlib.h>
+	"serialib.h"
+	<pthread.h>
+	"qrsdet.h"
+	"csound.h"
+	<AL/al.h>
+	<AL/alc.h>
+	"AL/alext.h"
+	<vector>
+
+1647893086 d:\c_projects\ecg_sujchbo_driven_leg\v_0_1\mgrx\include\mgrx.h
+	<time.h>
+
+1137669110 d:\c_projects\ecg_sujchbo_driven_leg\v_0_1\mgrx\include\mgrxkeys.h
+	<mgrx.h>
+
+1655502612 d:\c_projects\ecg_sujchbo_driven_leg\v_0_1\serialib.h
+	<sys/time.h>
+	<sys/time.h>
+	<windows.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/shm.h>
+	<termios.h>
+	<string.h>
+	<iostream>
+	<sys/time.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/ioctl.h>
+
+1406797600 d:\c_projects\ecg_sujchbo_driven_leg\v_0_1\qrsdet.h
+
+1650659016 d:\c_projects\ecg_sujchbo_driven_leg\v_0_1\mgrx\include\al\alext.h
+	<stddef.h>
+	<stdint.h>
+	<stdint.h>
+	"alc.h"
+	"al.h"
+	"efx.h"
+
+1650659016 d:\c_projects\ecg_sujchbo_driven_leg\v_0_1\mgrx\include\al\efx.h
+	<float.h>
+	"alc.h"
+	"al.h"
+
+1408624378 source:d:\c_projects\ecg_sujchbo_driven_leg\v_0_1\qrsdet.cpp
+	<string.h>
+	<mem.h>
+	<math.h>
+	<stdlib.h>
+	"qrsdet.h"
+
+1655555836 source:d:\c_projects\ecg_sujchbo_driven_leg\v_0_1\serialib.cpp
+	"serialib.h"
+
+1655453944 source:d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_1\csound.cpp
+	"csound.h"
+
+1655491492 d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_1\csound.h
+	<windows.h>
+	<math.h>
+	<unistd.h>
+	<pthread.h>
+	<stdio.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<cerrno>
+	<string>
+	<iostream>
+	<AL/al.h>
+	<AL/alc.h>
+
+1650659016 d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_1\mgrx\include\al\al.h
+
+1650659016 d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_1\mgrx\include\al\alc.h
+
+1655852950 source:d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_1\main.cpp
+	<string.h>
+	<mgrx.h>
+	<mgrxkeys.h>
+	<grgui.h>
+	<mgrxcolr.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdint.h>
+	<windows.h>
+	<mmsystem.h>
+	<X11/Xlib.h>
+	"serialib.h"
+	<pthread.h>
+	"qrsdet.h"
+	"csound.h"
+	<AL/al.h>
+	<AL/alc.h>
+	"AL/alext.h"
+	<vector>
+
+1647893086 d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_1\mgrx\include\mgrx.h
+	<time.h>
+
+1137669110 d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_1\mgrx\include\mgrxkeys.h
+	<mgrx.h>
+
+1655502612 d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_1\serialib.h
+	<sys/time.h>
+	<sys/time.h>
+	<windows.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/shm.h>
+	<termios.h>
+	<string.h>
+	<iostream>
+	<sys/time.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/ioctl.h>
+
+1406797600 d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_1\qrsdet.h
+
+1650659016 d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_1\mgrx\include\al\alext.h
+	<stddef.h>
+	<stdint.h>
+	<stdint.h>
+	"alc.h"
+	"al.h"
+	"efx.h"
+
+1650659016 d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_1\mgrx\include\al\efx.h
+	<float.h>
+	"alc.h"
+	"al.h"
+
+1408624378 source:d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_1\qrsdet.cpp
+	<string.h>
+	<mem.h>
+	<math.h>
+	<stdlib.h>
+	"qrsdet.h"
+
+1655555836 source:d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_1\serialib.cpp
+	"serialib.h"
+
+1644684600 d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_1\mgrx\include\grgui.h
+	<mgrx.h>
+	<mgrxkeys.h>
+
+1647804240 d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_1\mgrx\include\mgrxcolr.h
+	<mgrx.h>
+
+1655453944 source:z:\insync\xsmrcka@gmail.com\google drive\ecg_sujchbo_driven_leg\v_0_1\csound.cpp
+	"csound.h"
+
+1655491492 z:\insync\xsmrcka@gmail.com\google drive\ecg_sujchbo_driven_leg\v_0_1\csound.h
+	<windows.h>
+	<math.h>
+	<unistd.h>
+	<pthread.h>
+	<stdio.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<cerrno>
+	<string>
+	<iostream>
+	<AL/al.h>
+	<AL/alc.h>
+
+1650659016 z:\insync\xsmrcka@gmail.com\google drive\ecg_sujchbo_driven_leg\v_0_1\mgrx\include\al\al.h
+
+1650659016 z:\insync\xsmrcka@gmail.com\google drive\ecg_sujchbo_driven_leg\v_0_1\mgrx\include\al\alc.h
+
+1655912098 source:z:\insync\xsmrcka@gmail.com\google drive\ecg_sujchbo_driven_leg\v_0_1\main.cpp
+	<string.h>
+	<mgrx.h>
+	<mgrxkeys.h>
+	<grgui.h>
+	<mgrxcolr.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdint.h>
+	<windows.h>
+	<mmsystem.h>
+	<X11/Xlib.h>
+	"serialib.h"
+	<pthread.h>
+	"qrsdet.h"
+	"csound.h"
+	<AL/al.h>
+	<AL/alc.h>
+	"AL/alext.h"
+	<vector>
+
+1647893086 z:\insync\xsmrcka@gmail.com\google drive\ecg_sujchbo_driven_leg\v_0_1\mgrx\include\mgrx.h
+	<time.h>
+
+1137669110 z:\insync\xsmrcka@gmail.com\google drive\ecg_sujchbo_driven_leg\v_0_1\mgrx\include\mgrxkeys.h
+	<mgrx.h>
+
+1644684600 z:\insync\xsmrcka@gmail.com\google drive\ecg_sujchbo_driven_leg\v_0_1\mgrx\include\grgui.h
+	<mgrx.h>
+	<mgrxkeys.h>
+
+1647804240 z:\insync\xsmrcka@gmail.com\google drive\ecg_sujchbo_driven_leg\v_0_1\mgrx\include\mgrxcolr.h
+	<mgrx.h>
+
+1655502612 z:\insync\xsmrcka@gmail.com\google drive\ecg_sujchbo_driven_leg\v_0_1\serialib.h
+	<sys/time.h>
+	<sys/time.h>
+	<windows.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/shm.h>
+	<termios.h>
+	<string.h>
+	<iostream>
+	<sys/time.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/ioctl.h>
+
+1406797600 z:\insync\xsmrcka@gmail.com\google drive\ecg_sujchbo_driven_leg\v_0_1\qrsdet.h
+
+1650659016 z:\insync\xsmrcka@gmail.com\google drive\ecg_sujchbo_driven_leg\v_0_1\mgrx\include\al\alext.h
+	<stddef.h>
+	<stdint.h>
+	<stdint.h>
+	"alc.h"
+	"al.h"
+	"efx.h"
+
+1650659016 z:\insync\xsmrcka@gmail.com\google drive\ecg_sujchbo_driven_leg\v_0_1\mgrx\include\al\efx.h
+	<float.h>
+	"alc.h"
+	"al.h"
+
+1408624378 source:z:\insync\xsmrcka@gmail.com\google drive\ecg_sujchbo_driven_leg\v_0_1\qrsdet.cpp
+	<string.h>
+	<mem.h>
+	<math.h>
+	<stdlib.h>
+	"qrsdet.h"
+
+1655555836 source:z:\insync\xsmrcka@gmail.com\google drive\ecg_sujchbo_driven_leg\v_0_1\serialib.cpp
+	"serialib.h"
+
+1655453944 source:z:\insync\xsmrcka@gmail.com\google drive\ecg_sujchbo_driven_leg\v_0_2\csound.cpp
+	"csound.h"
+
+1655491492 z:\insync\xsmrcka@gmail.com\google drive\ecg_sujchbo_driven_leg\v_0_2\csound.h
+	<windows.h>
+	<math.h>
+	<unistd.h>
+	<pthread.h>
+	<stdio.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<cerrno>
+	<string>
+	<iostream>
+	<AL/al.h>
+	<AL/alc.h>
+
+1650659016 z:\insync\xsmrcka@gmail.com\google drive\ecg_sujchbo_driven_leg\v_0_2\mgrx\include\al\al.h
+
+1650659016 z:\insync\xsmrcka@gmail.com\google drive\ecg_sujchbo_driven_leg\v_0_2\mgrx\include\al\alc.h
+
+1408624378 source:z:\insync\xsmrcka@gmail.com\google drive\ecg_sujchbo_driven_leg\v_0_2\qrsdet.cpp
+	<string.h>
+	<mem.h>
+	<math.h>
+	<stdlib.h>
+	"qrsdet.h"
+
+1406797600 z:\insync\xsmrcka@gmail.com\google drive\ecg_sujchbo_driven_leg\v_0_2\qrsdet.h
+
+1655555836 source:z:\insync\xsmrcka@gmail.com\google drive\ecg_sujchbo_driven_leg\v_0_2\serialib.cpp
+	"serialib.h"
+
+1655502612 z:\insync\xsmrcka@gmail.com\google drive\ecg_sujchbo_driven_leg\v_0_2\serialib.h
+	<sys/time.h>
+	<sys/time.h>
+	<windows.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/shm.h>
+	<termios.h>
+	<string.h>
+	<iostream>
+	<sys/time.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/ioctl.h>
+
+1655916383 source:z:\insync\xsmrcka@gmail.com\google drive\ecg_sujchbo_driven_leg\v_0_2\main.cpp
+	<string.h>
+	<mgrx.h>
+	<mgrxkeys.h>
+	<grgui.h>
+	<mgrxcolr.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdint.h>
+	<windows.h>
+	<mmsystem.h>
+	<X11/Xlib.h>
+	"serialib.h"
+	<pthread.h>
+	"qrsdet.h"
+	"csound.h"
+	<AL/al.h>
+	<AL/alc.h>
+	"AL/alext.h"
+	<vector>
+
+1647893086 z:\insync\xsmrcka@gmail.com\google drive\ecg_sujchbo_driven_leg\v_0_2\mgrx\include\mgrx.h
+	<time.h>
+
+1137669110 z:\insync\xsmrcka@gmail.com\google drive\ecg_sujchbo_driven_leg\v_0_2\mgrx\include\mgrxkeys.h
+	<mgrx.h>
+
+1644684600 z:\insync\xsmrcka@gmail.com\google drive\ecg_sujchbo_driven_leg\v_0_2\mgrx\include\grgui.h
+	<mgrx.h>
+	<mgrxkeys.h>
+
+1647804240 z:\insync\xsmrcka@gmail.com\google drive\ecg_sujchbo_driven_leg\v_0_2\mgrx\include\mgrxcolr.h
+	<mgrx.h>
+
+1650659016 z:\insync\xsmrcka@gmail.com\google drive\ecg_sujchbo_driven_leg\v_0_2\mgrx\include\al\alext.h
+	<stddef.h>
+	<stdint.h>
+	<stdint.h>
+	"alc.h"
+	"al.h"
+	"efx.h"
+
+1650659016 z:\insync\xsmrcka@gmail.com\google drive\ecg_sujchbo_driven_leg\v_0_2\mgrx\include\al\efx.h
+	<float.h>
+	"alc.h"
+	"al.h"
+
+1655453944 source:d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_2\csound.cpp
+	"csound.h"
+
+1655491492 d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_2\csound.h
+	<windows.h>
+	<math.h>
+	<unistd.h>
+	<pthread.h>
+	<stdio.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<cerrno>
+	<string>
+	<iostream>
+	<AL/al.h>
+	<AL/alc.h>
+
+1650659016 d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_2\mgrx\include\al\al.h
+
+1650659016 d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_2\mgrx\include\al\alc.h
+
+1656103076 source:d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_2\main.cpp
+	<string.h>
+	<mgrx.h>
+	<mgrxkeys.h>
+	<grgui.h>
+	<mgrxcolr.h>
+	"grchart.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdint.h>
+	<windows.h>
+	<mmsystem.h>
+	<X11/Xlib.h>
+	"serialib.h"
+	<pthread.h>
+	"qrsdet.h"
+	"csound.h"
+	<AL/al.h>
+	<AL/alc.h>
+	"AL/alext.h"
+	<vector>
+
+1647893086 d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_2\mgrx\include\mgrx.h
+	<time.h>
+
+1137669110 d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_2\mgrx\include\mgrxkeys.h
+	<mgrx.h>
+
+1644684600 d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_2\mgrx\include\grgui.h
+	<mgrx.h>
+	<mgrxkeys.h>
+
+1647804240 d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_2\mgrx\include\mgrxcolr.h
+	<mgrx.h>
+
+1655502612 d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_2\serialib.h
+	<sys/time.h>
+	<sys/time.h>
+	<windows.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/shm.h>
+	<termios.h>
+	<string.h>
+	<iostream>
+	<sys/time.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/ioctl.h>
+
+1406797600 d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_2\qrsdet.h
+
+1650659016 d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_2\mgrx\include\al\alext.h
+	<stddef.h>
+	<stdint.h>
+	<stdint.h>
+	"alc.h"
+	"al.h"
+	"efx.h"
+
+1650659016 d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_2\mgrx\include\al\efx.h
+	<float.h>
+	"alc.h"
+	"al.h"
+
+1408624378 source:d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_2\qrsdet.cpp
+	<string.h>
+	<mem.h>
+	<math.h>
+	<stdlib.h>
+	"qrsdet.h"
+
+1655555836 source:d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_2\serialib.cpp
+	"serialib.h"
+
+1500857200 source:d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_2\grchart.c
+	<stdio.h>
+	<stdlib.h>
+	"mgrx.h"
+	"grchart.h"
+
+1139075056 d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_2\grchart.h
+
+1656019594 source:d:\xsmrcka_google_disk_win\ecg_sujchbo_driven_leg\v_0_2\grchart.cpp
+	<stdio.h>
+	<stdlib.h>
+	"mgrx.h"
+	"grchart.h"
+
+1655453944 source:d:\xsmrcka_google_disk_win\mormy\v_0_2\csound.cpp
+	"csound.h"
+
+1655491492 d:\xsmrcka_google_disk_win\mormy\v_0_2\csound.h
+	<windows.h>
+	<math.h>
+	<unistd.h>
+	<pthread.h>
+	<stdio.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<cerrno>
+	<string>
+	<iostream>
+	<AL/al.h>
+	<AL/alc.h>
+
+1650659016 d:\xsmrcka_google_disk_win\mormy\v_0_2\mgrx\include\al\al.h
+
+1650659016 d:\xsmrcka_google_disk_win\mormy\v_0_2\mgrx\include\al\alc.h
+
+1656019594 source:d:\xsmrcka_google_disk_win\mormy\v_0_2\grchart.cpp
+	<stdio.h>
+	<stdlib.h>
+	"mgrx.h"
+	"grchart.h"
+
+1647893086 d:\xsmrcka_google_disk_win\mormy\v_0_2\mgrx\include\mgrx.h
+	<time.h>
+
+1139075056 d:\xsmrcka_google_disk_win\mormy\v_0_2\grchart.h
+
+1408624378 source:d:\xsmrcka_google_disk_win\mormy\v_0_2\qrsdet.cpp
+	<string.h>
+	<mem.h>
+	<math.h>
+	<stdlib.h>
+	"qrsdet.h"
+
+1406797600 d:\xsmrcka_google_disk_win\mormy\v_0_2\qrsdet.h
+
+1655555836 source:d:\xsmrcka_google_disk_win\mormy\v_0_2\serialib.cpp
+	"serialib.h"
+
+1655502612 d:\xsmrcka_google_disk_win\mormy\v_0_2\serialib.h
+	<sys/time.h>
+	<sys/time.h>
+	<windows.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/shm.h>
+	<termios.h>
+	<string.h>
+	<iostream>
+	<sys/time.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/ioctl.h>
+
+1656274956 source:d:\xsmrcka_google_disk_win\mormy\v_0_2\main.cpp
+	<string.h>
+	<mgrx.h>
+	<mgrxkeys.h>
+	<grgui.h>
+	<mgrxcolr.h>
+	"grchart.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdint.h>
+	<windows.h>
+	<mmsystem.h>
+	<X11/Xlib.h>
+	"serialib.h"
+	<pthread.h>
+	"qrsdet.h"
+	"csound.h"
+	<AL/al.h>
+	<AL/alc.h>
+	"AL/alext.h"
+	<vector>
+
+1137669110 d:\xsmrcka_google_disk_win\mormy\v_0_2\mgrx\include\mgrxkeys.h
+	<mgrx.h>
+
+1644684600 d:\xsmrcka_google_disk_win\mormy\v_0_2\mgrx\include\grgui.h
+	<mgrx.h>
+	<mgrxkeys.h>
+
+1647804240 d:\xsmrcka_google_disk_win\mormy\v_0_2\mgrx\include\mgrxcolr.h
+	<mgrx.h>
+
+1650659016 d:\xsmrcka_google_disk_win\mormy\v_0_2\mgrx\include\al\alext.h
+	<stddef.h>
+	<stdint.h>
+	<stdint.h>
+	"alc.h"
+	"al.h"
+	"efx.h"
+
+1650659016 d:\xsmrcka_google_disk_win\mormy\v_0_2\mgrx\include\al\efx.h
+	<float.h>
+	"alc.h"
+	"al.h"
+
