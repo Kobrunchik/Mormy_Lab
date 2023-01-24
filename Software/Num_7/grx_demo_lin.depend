@@ -1,0 +1,648 @@
+# depslib dependency file v1.0
+1655450344 source:/SHARED/XSMRCKA_GOOGLE_DISK_WIN/ECG_SUJCHBO_DRIVEN_LEG/V_0_1/csound.cpp
+	"csound.h"
+
+1655487892 /SHARED/XSMRCKA_GOOGLE_DISK_WIN/ECG_SUJCHBO_DRIVEN_LEG/V_0_1/csound.h
+	<windows.h>
+	<math.h>
+	<unistd.h>
+	<pthread.h>
+	<stdio.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<cerrno>
+	<string>
+	<iostream>
+	<AL/al.h>
+	<AL/alc.h>
+
+1655646636 source:/SHARED/XSMRCKA_GOOGLE_DISK_WIN/ECG_SUJCHBO_DRIVEN_LEG/V_0_1/main.cpp
+	<string.h>
+	<mgrx.h>
+	<mgrxkeys.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdint.h>
+	<windows.h>
+	<mmsystem.h>
+	<X11/Xlib.h>
+	"serialib.h"
+	<pthread.h>
+	"qrsdet.h"
+	"csound.h"
+	<AL/al.h>
+	<AL/alc.h>
+	"AL/alext.h"
+	<vector>
+
+1655499012 /SHARED/XSMRCKA_GOOGLE_DISK_WIN/ECG_SUJCHBO_DRIVEN_LEG/V_0_1/serialib.h
+	<sys/time.h>
+	<sys/time.h>
+	<windows.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/shm.h>
+	<termios.h>
+	<string.h>
+	<iostream>
+	<sys/time.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/ioctl.h>
+
+1406794000 /SHARED/XSMRCKA_GOOGLE_DISK_WIN/ECG_SUJCHBO_DRIVEN_LEG/V_0_1/qrsdet.h
+
+1408620778 source:/SHARED/XSMRCKA_GOOGLE_DISK_WIN/ECG_SUJCHBO_DRIVEN_LEG/V_0_1/qrsdet.cpp
+	<string.h>
+	<mem.h>
+	<math.h>
+	<stdlib.h>
+	"qrsdet.h"
+
+1655552236 source:/SHARED/XSMRCKA_GOOGLE_DISK_WIN/ECG_SUJCHBO_DRIVEN_LEG/V_0_1/serialib.cpp
+	"serialib.h"
+
+1655450344 source:/SHARED/XSMRCKA_GOOGLE_DISK_WIN/MORMY/V_0_2/csound.cpp
+	"csound.h"
+
+1655487892 /SHARED/XSMRCKA_GOOGLE_DISK_WIN/MORMY/V_0_2/csound.h
+	<windows.h>
+	<math.h>
+	<unistd.h>
+	<pthread.h>
+	<stdio.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<cerrno>
+	<string>
+	<iostream>
+	<AL/al.h>
+	<AL/alc.h>
+
+1656228194 source:/SHARED/XSMRCKA_GOOGLE_DISK_WIN/MORMY/V_0_2/main.cpp
+	<string.h>
+	<mgrx.h>
+	<mgrxkeys.h>
+	<grgui.h>
+	<mgrxcolr.h>
+	"grchart.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdint.h>
+	<windows.h>
+	<mmsystem.h>
+	<X11/Xlib.h>
+	"serialib.h"
+	<pthread.h>
+	"qrsdet.h"
+	"csound.h"
+	<AL/al.h>
+	<AL/alc.h>
+	"AL/alext.h"
+	<vector>
+
+1139071456 /SHARED/XSMRCKA_GOOGLE_DISK_WIN/MORMY/V_0_2/grchart.h
+
+1655499012 /SHARED/XSMRCKA_GOOGLE_DISK_WIN/MORMY/V_0_2/serialib.h
+	<sys/time.h>
+	<sys/time.h>
+	<windows.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/shm.h>
+	<termios.h>
+	<string.h>
+	<iostream>
+	<sys/time.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/ioctl.h>
+
+1406794000 /SHARED/XSMRCKA_GOOGLE_DISK_WIN/MORMY/V_0_2/qrsdet.h
+
+1408620778 source:/SHARED/XSMRCKA_GOOGLE_DISK_WIN/MORMY/V_0_2/qrsdet.cpp
+	<string.h>
+	<mem.h>
+	<math.h>
+	<stdlib.h>
+	"qrsdet.h"
+
+1655552236 source:/SHARED/XSMRCKA_GOOGLE_DISK_WIN/MORMY/V_0_2/serialib.cpp
+	"serialib.h"
+
+1408627978 source:/home/fedor/Desktop/MORMY_LAB/V_0_2/qrsdet.cpp
+	<string.h>
+	<mem.h>
+	<math.h>
+	<stdlib.h>
+	"qrsdet.h"
+
+1406801200 /home/fedor/Desktop/MORMY_LAB/V_0_2/qrsdet.h
+
+1655559436 source:/home/fedor/Desktop/MORMY_LAB/V_0_2/serialib.cpp
+	"serialib.h"
+
+1655506212 /home/fedor/Desktop/MORMY_LAB/V_0_2/serialib.h
+	<sys/time.h>
+	<sys/time.h>
+	<windows.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/shm.h>
+	<termios.h>
+	<string.h>
+	<iostream>
+	<sys/time.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/ioctl.h>
+
+1655457544 source:/home/fedor/Desktop/MORMY_LAB/V_0_2/csound.cpp
+	"csound.h"
+
+1655495092 /home/fedor/Desktop/MORMY_LAB/V_0_2/csound.h
+	<windows.h>
+	<math.h>
+	<unistd.h>
+	<pthread.h>
+	<stdio.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<cerrno>
+	<string>
+	<iostream>
+	<AL/al.h>
+	<AL/alc.h>
+
+1656404912 source:/home/fedor/Desktop/MORMY_LAB/V_0_2/main.cpp
+	<string.h>
+	<math.h>
+	<mgrx.h>
+	<mgrxkeys.h>
+	<grgui.h>
+	<mgrxcolr.h>
+	"grchart.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdint.h>
+	<windows.h>
+	<mmsystem.h>
+	<X11/Xlib.h>
+	"serialib.h"
+	<pthread.h>
+	"qrsdet.h"
+	"csound.h"
+	<AL/al.h>
+	<AL/alc.h>
+	"AL/alext.h"
+	<vector>
+
+1139078656 /home/fedor/Desktop/MORMY_LAB/V_0_2/grchart.h
+
+1655457544 source:/home/fedor/Desktop/MORMY_LAB/V_0_3/csound.cpp
+	"csound.h"
+
+1655495092 /home/fedor/Desktop/MORMY_LAB/V_0_3/csound.h
+	<windows.h>
+	<math.h>
+	<unistd.h>
+	<pthread.h>
+	<stdio.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<cerrno>
+	<string>
+	<iostream>
+	<AL/al.h>
+	<AL/alc.h>
+
+1667846825 source:/home/fedor/Desktop/MORMY_LAB/V_0_3/main.cpp
+	<string.h>
+	<math.h>
+	<mgrx.h>
+	<mgrxkeys.h>
+	<grgui.h>
+	<mgrxcolr.h>
+	"grchart.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdint.h>
+	<sys/time.h>
+	<windows.h>
+	<mmsystem.h>
+	<X11/Xlib.h>
+	"serialib.h"
+	<pthread.h>
+	"qrsdet.h"
+	"csound.h"
+	<AL/al.h>
+	<AL/alc.h>
+	"AL/alext.h"
+	<vector>
+
+1139078656 /home/fedor/Desktop/MORMY_LAB/V_0_3/grchart.h
+
+1655506212 /home/fedor/Desktop/MORMY_LAB/V_0_3/serialib.h
+	<sys/time.h>
+	<sys/time.h>
+	<windows.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/shm.h>
+	<termios.h>
+	<string.h>
+	<iostream>
+	<sys/time.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/ioctl.h>
+
+1406801200 /home/fedor/Desktop/MORMY_LAB/V_0_3/qrsdet.h
+
+1408627978 source:/home/fedor/Desktop/MORMY_LAB/V_0_3/qrsdet.cpp
+	<string.h>
+	<mem.h>
+	<math.h>
+	<stdlib.h>
+	"qrsdet.h"
+
+1655559436 source:/home/fedor/Desktop/MORMY_LAB/V_0_3/serialib.cpp
+	"serialib.h"
+
+1655457544 source:/home/fedor/Desktop/Mormy_Lab_Copy/V_0_3/csound.cpp
+	"csound.h"
+
+1655495092 /home/fedor/Desktop/Mormy_Lab_Copy/V_0_3/csound.h
+	<windows.h>
+	<math.h>
+	<unistd.h>
+	<pthread.h>
+	<stdio.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<cerrno>
+	<string>
+	<iostream>
+	<AL/al.h>
+	<AL/alc.h>
+
+1667899511 source:/home/fedor/Desktop/Mormy_Lab_Copy/V_0_3/main.cpp
+	<string.h>
+	<math.h>
+	<mgrx.h>
+	<mgrxkeys.h>
+	<grgui.h>
+	<mgrxcolr.h>
+	"grchart.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdint.h>
+	<sys/time.h>
+	<windows.h>
+	<mmsystem.h>
+	<X11/Xlib.h>
+	"serialib.h"
+	<pthread.h>
+	"qrsdet.h"
+	"csound.h"
+	<AL/al.h>
+	<AL/alc.h>
+	"AL/alext.h"
+	<vector>
+
+1139078656 /home/fedor/Desktop/Mormy_Lab_Copy/V_0_3/grchart.h
+
+1655506212 /home/fedor/Desktop/Mormy_Lab_Copy/V_0_3/serialib.h
+	<sys/time.h>
+	<sys/time.h>
+	<windows.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/shm.h>
+	<termios.h>
+	<string.h>
+	<iostream>
+	<sys/time.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/ioctl.h>
+
+1406801200 /home/fedor/Desktop/Mormy_Lab_Copy/V_0_3/qrsdet.h
+
+1408627978 source:/home/fedor/Desktop/Mormy_Lab_Copy/V_0_3/qrsdet.cpp
+	<string.h>
+	<mem.h>
+	<math.h>
+	<stdlib.h>
+	"qrsdet.h"
+
+1655559436 source:/home/fedor/Desktop/Mormy_Lab_Copy/V_0_3/serialib.cpp
+	"serialib.h"
+
+1655457544 source:/home/fedor/Desktop/Mormy_Lab_Copy (copy)/V_0_3/csound.cpp
+	"csound.h"
+
+1655495092 /home/fedor/Desktop/Mormy_Lab_Copy (copy)/V_0_3/csound.h
+	<windows.h>
+	<math.h>
+	<unistd.h>
+	<pthread.h>
+	<stdio.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<cerrno>
+	<string>
+	<iostream>
+	<AL/al.h>
+	<AL/alc.h>
+
+1408627978 source:/home/fedor/Desktop/Mormy_Lab_Copy (copy)/V_0_3/qrsdet.cpp
+	<string.h>
+	<mem.h>
+	<math.h>
+	<stdlib.h>
+	"qrsdet.h"
+
+1406801200 /home/fedor/Desktop/Mormy_Lab_Copy (copy)/V_0_3/qrsdet.h
+
+1655559436 source:/home/fedor/Desktop/Mormy_Lab_Copy (copy)/V_0_3/serialib.cpp
+	"serialib.h"
+
+1655506212 /home/fedor/Desktop/Mormy_Lab_Copy (copy)/V_0_3/serialib.h
+	<sys/time.h>
+	<sys/time.h>
+	<windows.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/shm.h>
+	<termios.h>
+	<string.h>
+	<iostream>
+	<sys/time.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/ioctl.h>
+
+1669481043 source:/home/fedor/Desktop/Mormy_Lab_Copy (copy)/V_0_3/main.cpp
+	<string.h>
+	<math.h>
+	<mgrx.h>
+	<mgrxkeys.h>
+	<grgui.h>
+	<mgrxcolr.h>
+	"grchart.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdint.h>
+	<sys/time.h>
+	<windows.h>
+	<mmsystem.h>
+	<X11/Xlib.h>
+	"serialib.h"
+	<pthread.h>
+	"qrsdet.h"
+	"csound.h"
+	<AL/al.h>
+	<AL/alc.h>
+	"AL/alext.h"
+	<vector>
+
+1139078656 /home/fedor/Desktop/Mormy_Lab_Copy (copy)/V_0_3/grchart.h
+
+1655457544 source:/home/fedor/Desktop/Mormy_Lab_Copy_(copy)/V_0_3/csound.cpp
+	"csound.h"
+
+1655495092 /home/fedor/Desktop/Mormy_Lab_Copy_(copy)/V_0_3/csound.h
+	<windows.h>
+	<math.h>
+	<unistd.h>
+	<pthread.h>
+	<stdio.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<cerrno>
+	<string>
+	<iostream>
+	<AL/al.h>
+	<AL/alc.h>
+
+1669481043 source:/home/fedor/Desktop/Mormy_Lab_Copy_(copy)/V_0_3/main.cpp
+	<string.h>
+	<math.h>
+	<mgrx.h>
+	<mgrxkeys.h>
+	<grgui.h>
+	<mgrxcolr.h>
+	"grchart.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdint.h>
+	<sys/time.h>
+	<windows.h>
+	<mmsystem.h>
+	<X11/Xlib.h>
+	"serialib.h"
+	<pthread.h>
+	"qrsdet.h"
+	"csound.h"
+	<AL/al.h>
+	<AL/alc.h>
+	"AL/alext.h"
+	<vector>
+
+1139078656 /home/fedor/Desktop/Mormy_Lab_Copy_(copy)/V_0_3/grchart.h
+
+1655506212 /home/fedor/Desktop/Mormy_Lab_Copy_(copy)/V_0_3/serialib.h
+	<sys/time.h>
+	<sys/time.h>
+	<windows.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/shm.h>
+	<termios.h>
+	<string.h>
+	<iostream>
+	<sys/time.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/ioctl.h>
+
+1406801200 /home/fedor/Desktop/Mormy_Lab_Copy_(copy)/V_0_3/qrsdet.h
+
+1408627978 source:/home/fedor/Desktop/Mormy_Lab_Copy_(copy)/V_0_3/qrsdet.cpp
+	<string.h>
+	<mem.h>
+	<math.h>
+	<stdlib.h>
+	"qrsdet.h"
+
+1655559436 source:/home/fedor/Desktop/Mormy_Lab_Copy_(copy)/V_0_3/serialib.cpp
+	"serialib.h"
+
+1655457544 source:/home/fedor/Desktop/Mormy_Lab_Copy_ofcopy/V_0_3/csound.cpp
+	"csound.h"
+
+1655495092 /home/fedor/Desktop/Mormy_Lab_Copy_ofcopy/V_0_3/csound.h
+	<windows.h>
+	<math.h>
+	<unistd.h>
+	<pthread.h>
+	<stdio.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<cerrno>
+	<string>
+	<iostream>
+	<AL/al.h>
+	<AL/alc.h>
+
+1670779256 source:/home/fedor/Desktop/Mormy_Lab_Copy_ofcopy/V_0_3/main.cpp
+	<string.h>
+	<math.h>
+	<mgrx.h>
+	<mgrxkeys.h>
+	<grgui.h>
+	<mgrxcolr.h>
+	"grchart.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdint.h>
+	<sys/time.h>
+	<windows.h>
+	<mmsystem.h>
+	<X11/Xlib.h>
+	"serialib.h"
+	<pthread.h>
+	"qrsdet.h"
+	"csound.h"
+	<AL/al.h>
+	<AL/alc.h>
+	"AL/alext.h"
+	<vector>
+
+1139078656 /home/fedor/Desktop/Mormy_Lab_Copy_ofcopy/V_0_3/grchart.h
+
+1655506212 /home/fedor/Desktop/Mormy_Lab_Copy_ofcopy/V_0_3/serialib.h
+	<sys/time.h>
+	<sys/time.h>
+	<windows.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/shm.h>
+	<termios.h>
+	<string.h>
+	<iostream>
+	<sys/time.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/ioctl.h>
+
+1406801200 /home/fedor/Desktop/Mormy_Lab_Copy_ofcopy/V_0_3/qrsdet.h
+
+1408627978 source:/home/fedor/Desktop/Mormy_Lab_Copy_ofcopy/V_0_3/qrsdet.cpp
+	<string.h>
+	<mem.h>
+	<math.h>
+	<stdlib.h>
+	"qrsdet.h"
+
+1655559436 source:/home/fedor/Desktop/Mormy_Lab_Copy_ofcopy/V_0_3/serialib.cpp
+	"serialib.h"
+
+1655457544 source:/home/fedor/Desktop/Mormy_Lab_Copy_ofcopy/Num_7/csound.cpp
+	"csound.h"
+
+1655495092 /home/fedor/Desktop/Mormy_Lab_Copy_ofcopy/Num_7/csound.h
+	<windows.h>
+	<math.h>
+	<unistd.h>
+	<pthread.h>
+	<stdio.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<cerrno>
+	<string>
+	<iostream>
+	<AL/al.h>
+	<AL/alc.h>
+
+1408627978 source:/home/fedor/Desktop/Mormy_Lab_Copy_ofcopy/Num_7/qrsdet.cpp
+	<string.h>
+	<mem.h>
+	<math.h>
+	<stdlib.h>
+	"qrsdet.h"
+
+1406801200 /home/fedor/Desktop/Mormy_Lab_Copy_ofcopy/Num_7/qrsdet.h
+
+1655559436 source:/home/fedor/Desktop/Mormy_Lab_Copy_ofcopy/Num_7/serialib.cpp
+	"serialib.h"
+
+1655506212 /home/fedor/Desktop/Mormy_Lab_Copy_ofcopy/Num_7/serialib.h
+	<sys/time.h>
+	<sys/time.h>
+	<windows.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/shm.h>
+	<termios.h>
+	<string.h>
+	<iostream>
+	<sys/time.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/ioctl.h>
+
+1670929039 source:/home/fedor/Desktop/Mormy_Lab_Copy_ofcopy/Num_7/main.cpp
+	<string.h>
+	<math.h>
+	<mgrx.h>
+	<mgrxkeys.h>
+	<grgui.h>
+	<mgrxcolr.h>
+	"grchart.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdint.h>
+	<sys/time.h>
+	<windows.h>
+	<mmsystem.h>
+	<X11/Xlib.h>
+	"serialib.h"
+	<pthread.h>
+	"qrsdet.h"
+	"csound.h"
+	<AL/al.h>
+	<AL/alc.h>
+	"AL/alext.h"
+	<vector>
+
+1139078656 /home/fedor/Desktop/Mormy_Lab_Copy_ofcopy/Num_7/grchart.h
+
